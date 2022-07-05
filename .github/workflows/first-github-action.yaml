@@ -5,4 +5,4 @@ jobs:
     run-on: ubuntu-latest
     steps:
       -name: Echoa String
-        run: echo "Hello Security guru!! This is our first Github Action Workflow file"
+       run: echo "Hello Security guru!! This is our first Github Action Workflow file"
